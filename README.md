@@ -1,5 +1,6 @@
 Hi, I’m Omar Elsayed 👋
 I’m an iOS software engineer who enjoys going beyond how things work and digging into why they work that way. 
+
 I spend a lot of time exploring Swift, iOS internals, and architecture, and I use this GitHub to share experiments, ideas, and projects that grow out of that curiosity.
 
 When I’m not coding, I’m usually behind a camera. Photography has taught me patience, composition, and attention to detail—skills that quietly influence how I write code and think about software. 
