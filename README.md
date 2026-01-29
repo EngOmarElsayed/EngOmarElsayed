@@ -23,6 +23,8 @@ I believe knowledge is most valuable when it’s shared, and this profile is par
 
 More projects coming soon!🔜
 
+♥️[Sponsor me on GitHub](https://github.com/sponsors/EngOmarElsayed)
+
 <!---
 EngOmarElsayed/EngOmarElsayed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
