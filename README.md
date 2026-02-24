@@ -20,7 +20,7 @@ I believe knowledge is most valuable when it’s shared, and this profile is par
 - [SwiftToastAlert](https://github.com/EngOmarElsayed/SwiftToastAlert)
 - [GenericNetworkLayer](https://github.com/EngOmarElsayed/GenericNetworkLayer)
 - [swiftui-agent-skill](https://github.com/avdlee/swiftui-agent-skill)
-- [CleanBrowse](https://github.com/EngOmarElsayed/CleanBrowse)
+- [CleanBrowse](https://cleanbrowse.app)
 
 More projects coming soon!🔜
 
