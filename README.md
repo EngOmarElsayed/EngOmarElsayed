@@ -21,6 +21,7 @@ I believe knowledge is most valuable when it’s shared, and this profile is par
 - [GenericNetworkLayer](https://github.com/EngOmarElsayed/GenericNetworkLayer)
 - [swiftui-agent-skill](https://github.com/avdlee/swiftui-agent-skill)
 - [CleanBrowse](https://cleanbrowse.app)
+- [PrayerTime](https://www.prayer-time.app)
 
 More projects coming soon!🔜
 
